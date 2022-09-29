@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Suggestion Bot
 
-This bot is a public hosted as well as open-source Discord bot.
+This bot is a public hosted as well as open-source Discord bot which can be found [here](https://github.com/dev-suro/suggestion-bot).
 
 People can either use the command `/suggestions add` or `type in the channel` that the suggestion bot is setup at.
 

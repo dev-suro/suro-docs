@@ -4,11 +4,12 @@ sidebar_position: 4
 
 # Modmail
 
-This bot is a private modmail bot, which is hosted one per server.
+This bot is a private hosted modmail bot, which is hosted one per server.
 
 However, the source code is open-source and you are allowed to use it however you wish.
+You can find the source code [here](https://github.com/dev-suro/modmail-bot).
 
-:::info Would you like me to host this bot?
+:::info Would you like me to host this bot for you?
 Please contact me on Discord: fayevr#0001
 
 ***`The costs are $5/5€ a month.`***
