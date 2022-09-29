@@ -91,7 +91,11 @@ const config = {
             items: [
               {
                 label: 'Discord Bots',
-                to: '/docs/intro',
+                to: '/docs/bots',
+              },
+              {
+                label: 'Websites',
+                to: '/docs/websites',
               },
             ],
           },
