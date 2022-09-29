@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: '', // Usually your GitHub org/user name.
+  organizationName: 'dev-suro', // Usually your GitHub org/user name.
   projectName: 'suro-docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -115,16 +115,16 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/dev-suro/suro-docs',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Sushi Roll. Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        theme: lightCodeTheme,
       },
     }),
 };
