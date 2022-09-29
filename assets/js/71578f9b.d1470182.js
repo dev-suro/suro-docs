@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksuro_docs=self.webpackChunksuro_docs||[]).push([[452],{9862:s=>{s.exports=JSON.parse('{"label":"documentation","permalink":"/suro-docs/blog/tags/documentation","allTagsPath":"/suro-docs/blog/tags","count":1}')}}]);

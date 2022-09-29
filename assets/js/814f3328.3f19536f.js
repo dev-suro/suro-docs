@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksuro_docs=self.webpackChunksuro_docs||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/blog/welcome"},{"title":"Test Blog","permalink":"/blog/test-blog-2"}]}')}}]);

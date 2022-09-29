@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksuro_docs=self.webpackChunksuro_docs||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/suro-docs/blog/welcome"},{"title":"Test Blog","permalink":"/suro-docs/blog/test-blog-2"}]}')}}]);

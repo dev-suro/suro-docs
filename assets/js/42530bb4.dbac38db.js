@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksuro_docs=self.webpackChunksuro_docs||[]).push([[979],{4588:o=>{o.exports=JSON.parse('{"permalink":"/suro-docs/blog/tags/roll","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
