@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksuro_docs=self.webpackChunksuro_docs||[]).push([[855],{4420:s=>{s.exports=JSON.parse('{"label":"sushi","permalink":"/blog/tags/sushi","allTagsPath":"/blog/tags","count":1}')}}]);
