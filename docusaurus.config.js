@@ -75,6 +75,12 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Community',
+          },
         ],
       },
       footer: {
