@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksuro_docs=self.webpackChunksuro_docs||[]).push([[266],{5173:o=>{o.exports=JSON.parse('{"permalink":"/suro-docs/blog/tags/documentation","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
