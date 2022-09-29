@@ -9,7 +9,7 @@ const config = {
   title: 'Sushi Roll',
   tagline: 'Docs',
   url: 'https://docs.suro.club',
-  baseUrl: '/suro-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/suro.png',
