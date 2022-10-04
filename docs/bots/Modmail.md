@@ -4,16 +4,48 @@ sidebar_position: 4
 
 # Modmail
 
-This bot is a private hosted modmail bot, which is hosted one per server.
-
-However, the source code is open-source and you are allowed to use it however you wish.
-You can find the source code [here](https://github.com/dev-suro/modmail-bot).
-
 :::info Would you like me to host this bot for you?
 Please contact me on Discord: fayevr#0001
 
 ***`The costs are $5/5€ a month.`***
 :::
+
+## Setup
+To setup the bot please fill in the `.env` file.
+
+## Edit messages
+All messages are saved in `./bot/assets/messages` and can be edited at any time.
+
+To visualize messages, you can use any Discord message editor like the editor in [Sapphire](https://dashboard.sapph.xyz).
+
+## Slash Command Permissions
+Every user in the `.env` file will automatically have permissions for slash commands (and oauth).
+
+Additionally users can be add in the "User Management" tab in the Dashboard. They will get permission to login **after restarting**, even permissions that use Slash Commands.
+
+The command `/support` is open for all users.
+
+## Code editing
+
+### Bot
+When the code in `./bot` has been edited, the bot needs to be restarted.
+
+### Dashboard
+When the code in `./dashboard/src` has been edited, the following needs to be run in the `./dashboard` folder:
+
+```
+npm i
+npm run build
+```
+
+And restart the dashboard after.
+
+
+
+This bot is a private hosted modmail bot, which is hosted one per server.
+
+However, the source code is open-source and you are allowed to use it however you wish.
+You can find the source code [here](https://github.com/dev-suro/modmail-bot).
 
 The bot includes a full-fledged Dashboard as well as a fully functional ticket system.
 
